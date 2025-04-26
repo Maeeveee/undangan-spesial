@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Hangout Inviter - Coffee & Study Sessions",
+  title: "Undangan Spesial",
   description: "Invite friends for coffee breaks or study sessions with this simple app",
     generator: 'v0.dev',
     icons: {
